@@ -1,0 +1,30 @@
+[
+  {
+    "nume" : "Geanina",
+    "email": "geaina@me.com",
+    "curs" : "Java",
+    "varsta": 25,
+    "permis_auto": true,
+    "masina": {
+      "marca" : "audi"
+    },
+    "animale_companie": [
+      "caine",
+      "pisica"
+    ]
+  },
+  {
+    "nume" : "Dragos",
+    "email": "geaina@me.com",
+    "curs" : "Java",
+    "varsta": 25,
+    "permis_auto": true,
+    "masina": {
+      "marca" : "audi"
+    },
+    "animale_companie": [
+      "caine",
+      "pisica"
+    ]
+  }
+]
